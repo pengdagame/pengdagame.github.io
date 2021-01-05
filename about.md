@@ -1,9 +1,9 @@
 ---
-title: About me
+title: 哈喽，你好呀！
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+正如你所见到的，这是一个叫彭达的个人网站。在这里，我会把我研究问题记录归档，方便自己归纳总结，也希望能帮助看到这里的你。
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+我的个人职业是从2012年开始的，在影视动画行业主要做绑定师。到2019年转行游戏，目前是往动画技术美术方向发展。
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+如果有什么问题，可以[Email](pengdagame@qq.com)联系我。
