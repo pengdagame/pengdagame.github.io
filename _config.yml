@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Scribble"
-description:      "Such theme, very cool."
+title:            "彭达的菜鸟驿站"
+description:      "努力！奋斗！"
 url:               # Site url, without a slash at the end.
 signoff:          "pengdagame" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
@@ -8,10 +8,10 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         文章
     url:          /
     external:     false
-  - name:         About me
+  - name:         作者
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
