@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "彭达的菜鸟驿站"
+title:            "菜鸟驿站"
 description:      "努力！奋斗！"
 url:               # Site url, without a slash at the end.
-signoff:          "pengdagame" # Your name
+signoff:          "彭达" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
