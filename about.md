@@ -1,6 +1,6 @@
 ---
 ---
-![GITHUB](https://pengdagame.github.io/images/me.png "")
+![GITHUB](https://pengdagame.github.io/images/me.png "me")
 
 正如你所见到的，这是一个叫彭达的个人网站。在这里，我会把我研究课题记录归档，方便自己归纳总结，也希望能帮助看到这里的你。
 
