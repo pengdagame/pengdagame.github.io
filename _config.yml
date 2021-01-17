@@ -18,5 +18,5 @@ links:
 
 permalink:        /posts/:title
 defaults:
-  - values:
-      layout: "default"
+  values:
+    layout: "default"
