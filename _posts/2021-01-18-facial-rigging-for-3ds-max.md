@@ -3,10 +3,11 @@ title: 在3ds Max中设计一套表情绑定系统
 date: 2021-01-18
 ---
 ---
-### 前言
-大家好。最近，我编写了一个表情绑定工具，如下图所示。
 
 <div align=center><img src="https://pengdagame.github.io/images/facialRigging.png"/></div>
+
+### 前言
+大家好。最近，我编写了一个表情绑定工具，如上图所示。
 
 该工具使用Maxscript编写，基于3ds Max的Helper Point和Expression Controller内置技术，以及参考Apple ARKit BlendShapes标准。
 
