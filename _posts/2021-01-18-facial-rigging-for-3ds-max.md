@@ -28,29 +28,23 @@ date: 2021-01-18
 
 ---
 ### 使用方法
-+ 在工具加载后，先导入头骨骼信息，在依次选点创建五官各个部位。需要特别注意的事项，眼球和下巴的定位骨骼需要放在该部位的旋转中心点。
-<div align=center><img src="https://pengdagame.github.io/images/locatorBone.gif"/></div>
+1. 在工具加载后，先导入头骨骼信息，在依次选点创建五官各个部位。需要特别注意的事项，眼球和下巴的定位骨骼需要放在该部位的旋转中心点。
 
-+ 待所有定位骨骼创建完成后，需要把它们加入头部模型的蒙皮列表里。并给每个定位骨骼绘制权重。
-<div align=center><img src="https://pengdagame.github.io/images/locatorSkin.gif"/></div>
+2. 待所有定位骨骼创建完成后，需要把它们加入头部模型的蒙皮列表里。并给每个定位骨骼绘制权重。
 
-+ 在所有定位骨骼生成后，点击次级控制器按钮生成即可。
-<div align=center><img src="https://pengdagame.github.io/images/secondController.gif"/></div>
+3. 在所有定位骨骼生成后，点击次级控制器按钮生成即可。
 
-+ 在所有次级控制器生成后，点击表情控制器按钮生成即可。
-<div align=center><img src="https://pengdagame.github.io/images/facialController.gif"/></div>
+4. 在所有次级控制器生成后，点击表情控制器按钮生成即可。
 
-+ 在表情控制器生成后，表情控制器沿着单轴向（上下方向，左右方向）移动到最大值。移动次级控制器后，点击驱动修改器按钮修改完成。
-<div align=center><img src="https://pengdagame.github.io/images/modifyDrive.gif"/></div>
+5. 在表情控制器生成后，表情控制器沿着单轴向（上下方向，左右方向）移动到最大值。移动次级控制器后，点击驱动修改器按钮修改完成。
 
-+ 在表情控制器生成后，点击导入表情捕捉文件按钮，把表情捕捉文件全部导入场景中。
-<div align=center><img src="https://pengdagame.github.io/images/importMocapData.gif"/></div>
+6. 在表情控制器生成后，点击导入表情捕捉文件按钮，把表情捕捉文件全部导入场景中。
 
-+ 在表情捕捉文件导入场景后，点击移动面捕模型按钮，可以把捕捉模型移动到表情控制器旁边，方便观察动捕效果。
-<div align=center><img src="https://pengdagame.github.io/images/moveMocapData.gif"/></div>
+7. 在表情捕捉文件导入场景后，点击移动面捕模型按钮，可以把捕捉模型移动到表情控制器旁边，方便观察动捕效果。
 
-+ 在表情捕捉文件导入场景后，点击链接面捕数据按钮，可以把捕捉模型上的Morpher信息链接到表情控制器上。
-<div align=center><img src="https://pengdagame.github.io/images/linkMocapData.gif"/></div>
+8. 在表情捕捉文件导入场景后，点击链接面捕数据按钮，可以把捕捉模型上的Morpher信息链接到表情控制器上。
 
-+ 在表情捕捉模型链接表情控制器后，点击烘培面捕数据按钮，可以把链接控制烘培表情控制器上。
-<div align=center><img src="https://pengdagame.github.io/images/bakeMocapData.gif"/></div>
+9. 在表情捕捉模型链接表情控制器后，点击烘培面捕数据按钮，可以把链接控制烘培表情控制器上。
+
+---
+### 系统原理
