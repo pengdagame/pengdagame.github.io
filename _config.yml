@@ -11,7 +11,10 @@ links:
   - name:         文章
     url:          /
     external:     false
-  - name:         作者
+  - name:         工具
+    url:          /tool
+    external:     false
+  - name:         关于我
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
