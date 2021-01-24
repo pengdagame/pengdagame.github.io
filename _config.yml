@@ -19,7 +19,8 @@ links:
     external:     false
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /posts/:title
+# permalink:        /posts/:title
+permalink: /:year/:month/:day/:title
 defaults:
   - values:
       layout: "default"
